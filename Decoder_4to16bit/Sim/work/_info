@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Decoder_Nbit\Sim
+vdecoder_3to8
+Z1 !s100 8`8ih]6EUn27H;mhDZ=`W3
+Z2 I[Ok26HA6RlWJNRB[3^`=g3
+Z3 V0T1:8S8FP^5KLbR9:N7Nz0
+Z4 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Decoder_4to16bit\Sim
+Z5 w1761262813
+Z6 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_3to8.v
+Z7 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_3to8.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_3to8.v|
+Z10 o-work work -O0
+Z11 !s108 1761264469.720000
+Z12 !s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_3to8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_4to16
+!i10b 1
+!s100 O_@zlj_XU:JQlbMNkIQki2
+IC7h8SHzDCam::9agHQKk:1
+Z13 VIh1POSo_B?7<IKT54FD6Z3
+R4
+w1761264465
+Z14 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_4to16.v
+Z15 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_4to16.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1761264469.936000
+!s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_4to16.v|
+Z16 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/decoder_4to16.v|
+!s101 -O0
+R10
+vtestbench
+Z17 !s100 NHCgG^zOoVKmY?QgL5YK?0
+Z18 IXW=B3Y[b[M=aWdZ0D=Z8F0
+Z19 V?P;e9PfGXNkU<VdJQh0<H3
+R4
+Z20 w1761264178
+Z21 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/testbench.v
+Z22 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/testbench.v
+L0 2
+R8
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/testbench.v|
+R10
+!i10b 1
+!s85 0
+Z24 !s108 1761264469.824000
+Z25 !s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_4to16bit/testbench.v|
+!s101 -O0
