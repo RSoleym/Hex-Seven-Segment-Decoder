@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Some_Logics\Sim
+vadder_tree
+Z1 !s100 EmKeZI]UNgSRHK9zV3;?e2
+Z2 IJ3o63`HXSDV@;5QC7Z4M62
+Z3 VBCV7eR?SZ?3f>zUR28:R13
+Z4 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Adders_Tree\Sim
+Z5 w1760928646
+Z6 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/adder_tree.v
+Z7 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/adder_tree.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|-O0|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/adder_tree.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1760929901.700000
+Z12 !s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/adder_tree.v|
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 zKH>?X2S6UUfWQ^GzVKAd3
+IA@UDSiWhHhhf>jgNS@F5C1
+Z13 VhGfW:390DM[oDMzegDH9`2
+R4
+w1760929891
+Z14 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/testbench.v
+Z15 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1760929901.818000
+!s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/testbench.v|
+Z16 !s90 -reportprogress|300|-work|work|-O0|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/testbench.v|
+!s101 -O0
+R10
