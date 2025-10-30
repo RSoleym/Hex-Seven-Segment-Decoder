@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Mux_4x_Nbit\Sim
+vdemux_4x_nbit
+Z1 !s100 hcPBG__4Pd0CJ0CZm>RFn3
+Z2 InRDm::792UzT@6c3PiSkU0
+Z3 VX2eYPSV8;<L;a[L<V_mgd2
+Z4 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Demux_4x_Nbit\Sim
+Z5 w1761281282
+Z6 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/demux_4x_nbit.v
+Z7 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/demux_4x_nbit.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/demux_4x_nbit.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1761281871.636000
+Z12 !s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/demux_4x_nbit.v|
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 <cT5Cfl_h?zIAODUocFK]0
+IAUFS]ecUB_MEzRj9FoB5U2
+VQRSgKUGFm^_l<?XHXk<YC1
+R4
+w1761281831
+8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/testbench.v
+FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/testbench.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1761281871.740000
+!s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/testbench.v|
+!s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Demux_4x_Nbit/testbench.v|
+!s101 -O0
+R10
