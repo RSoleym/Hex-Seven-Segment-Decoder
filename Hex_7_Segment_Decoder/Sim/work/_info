@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Demux_4x_Nbit\Sim
+vhex_7seg_dec
+Z1 !s100 bnWU6kVREc7<2iOf4EeFA3
+Z2 IT8o7WGGIDJL^R_V61fCI11
+Z3 Vj99aV`1HOk8WLn^HzN1MQ0
+Z4 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Hex_7_Segment_Decoder\Sim
+Z5 w1761619261
+Z6 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/hex_7seg_dec.v
+Z7 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/hex_7seg_dec.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/hex_7seg_dec.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1761619423.634000
+Z12 !s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/hex_7seg_dec.v|
+!s101 -O0
+vtestbench
+!i10b 1
+!s100 CT[YN=fIj`=`0HVLm2cF?2
+ISOez@0PeIgQih1m10mhdG0
+Z13 VhGfW:390DM[oDMzegDH9`2
+R4
+w1761619420
+Z14 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/testbench.v
+Z15 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1761619423.759000
+!s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/testbench.v|
+Z16 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Hex_7_Segment_Decoder/testbench.v|
+!s101 -O0
+R10
