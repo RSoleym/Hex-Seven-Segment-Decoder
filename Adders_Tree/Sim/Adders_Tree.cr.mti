@@ -1,8 +1,0 @@
-{D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/adder_tree.v} {1 {vlog -work work {D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Adders_Tree/adder_tree.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module adder_tree
-
-Top level modules:
-	adder_tree
-
-} {} {}}

@@ -1,8 +1,0 @@
-{D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_Nbit/decoder_nbit.v} {1 {vlog -work work {D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Decoder_Nbit/decoder_nbit.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module decoder_nbit
-
-Top level modules:
-	decoder_nbit
-
-} {} {}}

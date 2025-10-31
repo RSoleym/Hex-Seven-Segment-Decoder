@@ -1,8 +1,0 @@
-{D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Priority_Encoder_4to2bit/testbench.v} {1 {vlog -work work {D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Priority_Encoder_4to2bit/testbench.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module testbench
-
-Top level modules:
-	testbench
-
-} {} {}}
