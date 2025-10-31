@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Hex_7_Segment_Decoder\Sim
+vALU
+Z1 IZM>KlOBXUE:<NnD5G;A_B0
+Z2 VFfGjWRIUW:;R@ITHHW][@1
+Z3 dD:\Shared\Locked In Syndrome\Verilog HDL Projects\Chapter 7\Arithmetic_Logic_Unit_Design\Sim
+Z4 w1761787593
+Z5 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/ALU.v
+Z6 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/ALU.v|
+Z9 o-work work -O0
+Z10 n@a@l@u
+!i10b 1
+Z11 !s100 NCaC9]CDYEVbNhNnkbO;X3
+!s85 0
+Z12 !s108 1761787642.619000
+Z13 !s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/ALU.v|
+!s101 -O0
+vtestbench
+!i10b 1
+Z14 !s100 6aja5MzW@F7WlEH2]>MLe0
+Z15 I>nNi^Gz_]RXYYUNA0kl:f2
+Z16 VQRSgKUGFm^_l<?XHXk<YC1
+R3
+Z17 w1761702427
+Z18 8D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/testbench.v
+Z19 FD:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/testbench.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1761787642.769000
+!s107 D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/testbench.v|
+Z20 !s90 -reportprogress|300|-work|work|D:/Shared/Locked In Syndrome/Verilog HDL Projects/Chapter 7/Arithmetic_Logic_Unit_Design/testbench.v|
+!s101 -O0
+R9
